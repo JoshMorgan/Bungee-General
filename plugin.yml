@@ -1,0 +1,9 @@
+name: TregBungee
+version: 1.0
+main: info.tregmine.bungee.Essentials
+author: TregmineDevTeam
+description: Tregmine Bungee Plugin
+commands:
+  hub:
+    description: Add of Remove a Bungee Portal
+    usage: /portal
